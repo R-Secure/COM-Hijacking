@@ -5,5 +5,5 @@ Some of the default Windows scheduled tasks use triggers to call COM objects. Th
 ### Usage:
 
 ```
-COMHijack.exe C:\Windows\Temp\beacon.exe
+COMHijack.exe C:\Windows\Temp\beacon.dll
 ```
